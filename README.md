@@ -1,5 +1,7 @@
 # 📱 Indian Smartphone Market Analysis – Flipkart Dataset (3,114 Products)
 
+Please click on the link to access Dashboard : https://akashbondre39.github.io/Flipkart-Mobile-Analysis/
+
 ## 📌 Executive Summary
 
 This report presents a comprehensive analysis of 3,114 smartphone products listed on Flipkart, encompassing over 30 brands. The objective is to identify strategic insights into price segmentation, brand positioning, consumer preferences, and future trends within India's dynamic mobile market.
